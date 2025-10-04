@@ -13,6 +13,7 @@ export default function App() {
           <a
             href="https://github.com/FatimadelaIglesia/my-react-app"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on GitHub
           </a>
